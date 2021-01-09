@@ -26,6 +26,3 @@ elde edilen blok hashBlock fonksiyonuna gonderilerek hash degerleri guncellenece
 Eger elde edilen blok son bloksa uzunluk bolgesine(64bitlik son bolum) tasmissa 
 uzunluk degeri bir sonraki blokun sonuna eklenecektir.
 En sonda H degerlerini kullanarak Hash degerini donduruyor.
-
-
-Hazirlayan: Murad Abaszada
